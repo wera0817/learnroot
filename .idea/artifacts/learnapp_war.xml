@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="learnapp:war">
+    <output-path>$PROJECT_DIR$/learnapp/target</output-path>
+    <root id="archive" name="learn-app.war">
+      <element id="artifact" artifact-name="learnapp:war exploded" />
+    </root>
+  </artifact>
+</component>

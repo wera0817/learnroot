@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learnapp/learnapp.iml" filepath="$PROJECT_DIR$/learnapp/learnapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learncore/learncore.iml" filepath="$PROJECT_DIR$/learncore/learncore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnroot.iml" filepath="$PROJECT_DIR$/learnroot.iml" />
+    </modules>
+  </component>
+</project>
